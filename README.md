@@ -7,3 +7,4 @@ Start project
 npx cypress open
 
 Please create all branches from the dev branch
+Test
